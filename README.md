@@ -97,8 +97,3 @@ Commit your changes (git commit -am 'Add some feature')
 Push to the branch (git push origin feature/improvement)
 
 Create a new Pull Request
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-New chat
