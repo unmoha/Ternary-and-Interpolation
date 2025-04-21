@@ -54,7 +54,7 @@ Usage
 Clone the repository:
 
 bash
-git clone https://github.com/unmoha/search-algorithms.git
+git clone https://github.com/unmoha/Ternary-and-Interpolation
 cd search-algorithms
 Compile the code:
 
